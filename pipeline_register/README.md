@@ -15,4 +15,6 @@ Handles backpressure without data loss or duplication.
 - tb_pipeline_reg.sv – Testbench
 
 ## Simulation Result
+![Uploading image.png…]()
+
 
